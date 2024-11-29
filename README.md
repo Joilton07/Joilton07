@@ -4,7 +4,7 @@
 
 Web Developer & focused on constantly working on programming and technologies.
 
-- 💬 Ask me about **Typecript, Javascipt, Nestjs, html, CSS, PostgreSQL, Node.JS, C#**
+- 💬 Ask me about **Typecript, Javascipt, Nestjs, html, CSS, PostgreSQL, Node.JS, C# e Java**
 
 - ⚡ Fun fact **Learn about technologies**
 
